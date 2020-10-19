@@ -1,0 +1,4 @@
+constraint: constraints/gcp.resourceLocations
+listPolicy:
+  allowedValues:
+  - in:us-locations
