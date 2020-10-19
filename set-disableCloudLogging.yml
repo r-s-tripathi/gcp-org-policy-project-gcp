@@ -1,0 +1,3 @@
+booleanPolicy:
+  enforced: true
+constraint: constraints/gcp.disableCloudLogging
